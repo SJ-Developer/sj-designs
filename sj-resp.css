@@ -58,6 +58,7 @@
         display: flex;
         transition: all 0.5s ease-in-out;
         background: rgba(6, 0, 50, 0.3) url("leaf.jpg") no-repeat center center/cover;
+        background-blend-mode: darken;
         position: sticky;
         box-shadow: 4px 4px 15px #45a29e;
         top: 0;
@@ -638,6 +639,7 @@
         display: flex;
         transition: all 0.5s ease-in-out;
         background: rgba(6, 0, 50, 0.3) url("leaf.jpg") no-repeat center center/cover;
+        background-blend-mode: darken;
         position: sticky;
         box-shadow: 4px 4px 15px #45a29e;
         top: 0;
@@ -1218,6 +1220,7 @@
         display: flex;
         transition: all 0.5s ease-in-out;
         background: rgba(6, 0, 50, 0.3) url("leaf.jpg") no-repeat center center/cover;
+        background-blend-mode: darken;
         position: sticky;
         box-shadow: 4px 4px 15px #45a29e;
         top: 0;
@@ -1799,6 +1802,7 @@
         display: flex;
         transition: all 0.5s ease-in-out;
         background: rgba(6, 0, 50, 0.3) url("leaf.jpg") no-repeat center center/cover;
+        background-blend-mode: darken;
         position: sticky;
         box-shadow: 4px 4px 15px #45a29e;
         top: 0;
@@ -2367,6 +2371,7 @@
         display: flex;
         transition: all 0.5s ease-in-out;
         background: rgba(6, 0, 50, 0.3) url("leaf.jpg") no-repeat center center/cover;
+        background-blend-mode: darken;
         position: sticky;
         box-shadow: 4px 4px 15px #45a29e;
         top: 0;
@@ -2928,6 +2933,7 @@
         display: flex;
         transition: all 0.5s ease-in-out;
         background: rgba(6, 0, 50, 0.3) url("leaf.jpg") no-repeat center center/cover;
+        background-blend-mode: darken;
         position: sticky;
         box-shadow: 4px 4px 15px #45a29e;
         top: 0;
@@ -3483,6 +3489,7 @@ body{
     display: flex;
     transition: all 0.5s ease-in-out;
     background: rgba(6, 0, 50, 0.3) url("leaf.jpg") no-repeat center center/cover;
+    background-blend-mode: darken;
     position: sticky;
     box-shadow: 4px 4px 15px #45a29e;
     top: 0;
