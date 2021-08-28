@@ -198,7 +198,7 @@ hr{
 .img{
     height: 22em;
     width: 42em;
-    background: rgba(31, 56, 51, 0.5) url(webdesign.jpg") no-repeat center center/cover;
+    background: rgba(31, 56, 51, 0.5) url("webdesign.jpg") no-repeat center center/cover;
     background-blend-mode: darken;
 }
 .ser-content{
